@@ -24,9 +24,9 @@ const Text = styled.div`
 const Footer = () => (
   <Wrapper>
     <Text>
-      <span>
-        Gatsby Tutorial Starter -{' '}
-        <a href="https://justinformentin.com">Justin Formentin</a>
+      <span className="logofont">
+      Prototype Demo by | {' '}
+        <a style={{textDecoration:"none", color:"white"}}href="https://www.jetsetengine.com"> jetsetEngine</a>
       </span>
     </Text>
   </Wrapper>
