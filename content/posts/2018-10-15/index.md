@@ -1,6 +1,7 @@
 ---
 path: "/post-one"
 cover: "./softskills.jpg"
+date: "2020-20-20"
 title: "Highlight Your Soft Skills"
 published: true
 tags: ['interview prep', 'soft skills', 'other']

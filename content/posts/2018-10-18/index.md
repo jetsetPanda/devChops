@@ -1,6 +1,7 @@
 ---
 path: "/post-four"
 cover: "../2018-10-18/interview.jpg"
+date: "2020-20-20"
 title: "Speech and Appearance in Interviews"
 tags: ['speech', 'interview prep', 'essentials', 'attire']
 published: true

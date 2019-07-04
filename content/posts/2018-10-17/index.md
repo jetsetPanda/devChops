@@ -1,6 +1,7 @@
 ---
 path: "/post-three"
 cover: "./suit.jpg"
+date: "2020-20-20"
 title: "Positive Body Language"
 tags: ['interview prep', 'appearance', 'body language']
 published: true
