@@ -1,6 +1,6 @@
 ---
 path: "/post-one"
-cover: "./blocks.jpg"
+cover: "./softskills.jpg"
 date: ""
 title: "Highlight Your Soft Skills"
 published: true

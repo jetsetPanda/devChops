@@ -1,6 +1,6 @@
 ---
 path: "/post-four"
-cover: "../2018-10-17/finance.jpg"
+cover: "../2018-10-18/interview.jpg"
 date: ""
 title: "Speech and Appearance in Interviews"
 tags: ['speech', 'interview prep', 'essentials', 'attire']
