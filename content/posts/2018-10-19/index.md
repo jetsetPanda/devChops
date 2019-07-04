@@ -1,9 +1,9 @@
 ---
 path: "/post-five"
-cover: "../2018-10-15/blocks.jpg"
-date: "2020-20-20"
+cover: "./blocks.jpg"
+date: "2020-02-02"
 title: "Ace the Whiteboard Interview"
-tags: ['whiteboarding', 'interview prep', 'essentials', 'other']
+tags: ['whiteboarding', 'interview prep', 'other']
 published: true
 ---
 Why do companies conduct whiteboard interviews?

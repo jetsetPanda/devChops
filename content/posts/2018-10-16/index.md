@@ -1,7 +1,7 @@
 ---
 path: "/post-two"
 cover: "./speed.jpg"
-date: "2020-20-20"
+date: "2020-02-02"
 title: "Ten Essential Javascript Interview Questions"
 published: true
 tags: ['javascript', 'interview prep', 'essentials']
