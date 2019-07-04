@@ -1,7 +1,6 @@
 ---
 path: "/post-six"
 cover: "../2018-10-20/coding.jpg"
-date: ""
 title: "Live Coding Challenges"
 tags: ['interview prep', 'essentials', 'live coding', 'challenge']
 published: true

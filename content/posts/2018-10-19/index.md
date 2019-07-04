@@ -1,7 +1,6 @@
 ---
 path: "/post-five"
 cover: "../2018-10-15/blocks.jpg"
-date: ""
 title: "Ace the Whiteboard Interview"
 tags: ['whiteboarding', 'interview prep', 'essentials', 'other']
 published: true

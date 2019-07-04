@@ -1,7 +1,6 @@
 ---
 path: "/post-three"
 cover: "./suit.jpg"
-date: ""
 title: "Positive Body Language"
 tags: ['interview prep', 'appearance', 'body language']
 published: true
